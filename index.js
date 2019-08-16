@@ -19,15 +19,15 @@
 // My id is ${my_id}.
 // My address is ${my_address}.
 // ```
-// let my_name = "marcus";
-// let my_id = "student";
-// let my_address = "holmes";
-//
-// let my_template_string = `
-// My name is ${my_name}.
-// My id is ${my_id}.
-// My address is ${my_address}.`;
-// console.log(my_template_string);
+let my_name = "marcus";
+let my_id = "student";
+let my_address = "holmes";
+
+let my_template_string = `
+My name is ${my_name}.
+My id is ${my_id}.
+My address is ${my_address}.`;
+console.log(my_template_string);
 
 // ### Exercise 2:
 //
@@ -42,11 +42,11 @@
 //     ```
 // Congratulations 1_M_l337! !!, your score is 9001.
 // ```
-// let contestant = "1_M_l337!";
-// let score = "9001";
-// let template =`Congratulation ${contestant} !!, your score is ${score}.`;
-//
-// console.log(template);
+let contestant = "1_M_l337!";
+let score = "9001";
+let template =`Congratulation ${contestant} !!, your score is ${score}.`;
+
+console.log(template);
 
 
 // ## Exercise 3:
